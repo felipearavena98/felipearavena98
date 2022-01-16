@@ -72,6 +72,12 @@
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a></h5>
   </li>
 </ul>
+<h4 align="left">Comunicación:</h3>
+ <ul>
+  <li><h5>Slack
+    <a href="https://www.slack.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="slack" width="40" height="40"/> </a></h5>
+  </li>
+</ul>   
 <hr>
 <h4 align="left">Otros:</h3>
 <ul>
@@ -86,6 +92,8 @@
   </li>
   <li><h5>WordPress
   <a href="https://wordpress.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="wordpress" width="40" height="40"/> </a></h5>
+  </li>
+  <li><h5>Notion</h5>
   </li>
 </ul>
 <hr>
