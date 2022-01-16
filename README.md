@@ -84,6 +84,9 @@
   <li><h5>Heroku
   <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a></h5>
   </li>
+  <li><h5>WordPress
+  <a href="https://wordpress.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="wordpress" width="40" height="40"/> </a></h5>
+  </li>
 </ul>
 <hr>
 <h3 align="center">Estadísticas de los lenguajes que más utilizo</h3>
