@@ -8,7 +8,7 @@
 <p align="left">
 </p>
 
-<h3 align="left">Cosas que he utilizado:</h3>
+<h3 align="left">Lo que he utilizado:</h3>
 <h4 align="left">Frontend:</h3>
 <ul align="left">
   <li><h5>HTML
